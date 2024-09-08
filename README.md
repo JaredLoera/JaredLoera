@@ -3,11 +3,6 @@ Estoy empezando a aprender y aunque no se mucho, resuelvo aun asi
 
 Estoy estuidando en la poderosisima UTT⚡ JAJAJJAAJ
 
-tengo un servidor en comunidad con "aqui iba el arroba de sebastian ramirez"
-por si gustan unirse a la comunidad de minecraft que queremos hacer.
-
-[Nuestro servidorcito](servertorreon.ddns.net)
-
 ## Lenguajes y frameworks 
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
