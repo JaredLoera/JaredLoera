@@ -1,5 +1,4 @@
-## Hi there 👋
-## holiiii soy jared-loera
+## holiiii👋 soy jared loera
 Estoy empezando a aprender y aunque no se mucho, resuelvo aun asi
 
 Estoy estuidando en la poderosisima UTT⚡ JAJAJJAAJ
