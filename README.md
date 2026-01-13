@@ -1,5 +1,5 @@
 ## holaaaa👋 soy jared loera
-Estoy empezando a aprender y aunque no se mucho, resuelvo aun asi
+Estoy soy desarrollador de software web junior, si miras este perfil tal vez mires algunos de mis repositorios, los mas comunes son de angular y adonisJS
 
 
 ## Lenguajes y frameworks 
